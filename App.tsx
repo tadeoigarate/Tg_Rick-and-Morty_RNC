@@ -4,7 +4,6 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { Tabs } from './src/stackNavigation/Tabs';
 import { AuthProvider } from './src/context/AuthContext';
-import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const AppState = ({ children }: any ) => {
   return (
@@ -16,10 +15,6 @@ const AppState = ({ children }: any ) => {
 
 export default function App () {
 
-  let token
- async () => {
-  token = await AsyncStorage.getItem('token')
- }
   return (
     <NavigationContainer>
       <AppState>
