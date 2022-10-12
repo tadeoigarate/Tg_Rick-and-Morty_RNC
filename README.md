@@ -15,16 +15,25 @@ Api: https://rickandmortyapi.com/
 
 ## Imagenes
 
+- Login
+
+![Login](/image/login.jpg)
+
+
 - Home
 
-![Home](/img/pfgif.gif)
+![Home](/image/home.jpg)
 
 
-- Tienda
+- Search Page
 
-![Store](/img/PFR1.png)
+![Search](/image/searchPage.jpg)
 
 
-- Carrito
+- Profile
 
-![Cart](/img/PFR2.png)
+![Profile](/image/profile.jpg)
+
+- Profile Edit
+
+![ProfileEdit](/image/editProfile.jpg)
