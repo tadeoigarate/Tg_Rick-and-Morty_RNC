@@ -32,7 +32,7 @@ Api: https://rickandmortyapi.com/
 
 - Profile
 
-<img src="/image/Profile.jpg" alt="Profile" width="250"/>
+<img src="/image/profile.jpg" alt="Profile" width="250"/>
 
 - Profile Edit
 
