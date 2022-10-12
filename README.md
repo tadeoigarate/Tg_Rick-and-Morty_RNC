@@ -2,7 +2,7 @@
  
  ## Introduction
 
-Esta fue una aplicación creada en una entrevista técnica de la empresa White Proyect. En esta aplicación lo que nos encontramos es con un sistema de inicio de sesión, un home donde se ve el listado de los personajes, en el siguiente Screen tenemos una página de búsqueda, y el último Screen es el Perfil donde estará disponible además la mofifición de datos del usuario
+Esta fue una aplicación creada en una entrevista técnica de la empresa White Proyect. En esta aplicación lo que nos encontramos es con un sistema de inicio de sesión, un home donde se ve el listado de los personajes, donde se puede acceder a las carecteristicas detalladas de cada personaje, en el siguiente Screen tenemos una página de búsqueda, y el último Screen es el Perfil donde estará disponible además la mofifición de datos del usuario
 
 Tecnologias utilizadas:
 <br>
@@ -23,6 +23,11 @@ Api: https://rickandmortyapi.com/
 - Home
 
 <img src="/image/home.jpg" alt="Home" width="250"/>
+
+
+- Character Description
+
+<img src="/image/character.jpg" alt="Character Description" width="250"/>
 
 
 - Search Page
