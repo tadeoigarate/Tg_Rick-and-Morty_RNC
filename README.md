@@ -22,7 +22,7 @@ Api: https://rickandmortyapi.com/
 
 - Home
 
-<img src="/image/Home.jpg" alt="Home" width="250"/>
+<img src="/image/home.jpg" alt="Home" width="250"/>
 
 
 - Search Page
