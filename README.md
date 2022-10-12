@@ -17,23 +17,23 @@ Api: https://rickandmortyapi.com/
 
 - Login
 
-![Login](/image/login.jpg)
+<img src="/image/login.jpg" alt="Login" width="250"/>
 
 
 - Home
 
-![Home](/image/home.jpg)
+<img src="/image/Home.jpg" alt="Home" width="250"/>
 
 
 - Search Page
 
-![Search](/image/searchPage.jpg)
+<img src="/image/searchPage.jpg" alt="Search Page" width="250"/>
 
 
 - Profile
 
-![Profile](/image/profile.jpg)
+<img src="/image/Profile.jpg" alt="Profile" width="250"/>
 
 - Profile Edit
 
-![ProfileEdit](/image/editProfile.jpg)
+<img src="/image/editProfile.jpg" alt="Profile Edit" width="250"/>
